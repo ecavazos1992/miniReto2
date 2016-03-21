@@ -43,7 +43,6 @@ class Auto{
 
 var auto = Auto()
 
-print("hola")
 
 for i in 1...20 {
     print("\(i). \(auto.cambioDeVelocidad())")
